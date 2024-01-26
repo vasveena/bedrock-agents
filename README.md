@@ -1,4 +1,4 @@
-# Lab 7 - Agents for Bedrock
+# Agents for Bedrock
 
 ## Overview
 
